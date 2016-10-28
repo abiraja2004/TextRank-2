@@ -11,4 +11,4 @@ You might need to uncomment the corresponding function call in the code.
 `> python textRank.py -sent 10 -dist CT -draw T` You might need to uncomment the corresponding function call in the code.
 
 
-#### Feel free to send any questions by raising an issue.
+#### Feel free to send any questions by raising an issue
